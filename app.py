@@ -20,3 +20,4 @@ if __name__ == "__main__":
     
     total = calculate_project_price(h, rate, comp)
     print(f"\nИтоговая стоимость проекта: ${total}")
+    print("Stariy put")
